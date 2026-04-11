@@ -10,13 +10,13 @@
 ![Claude Skill](https://img.shields.io/badge/Claude-Skill-blueviolet?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgZmlsbD0id2hpdGUiLz48L3N2Zz4=)
 ![Platform](https://img.shields.io/badge/Platform-Cowork%20%7C%20Claude%20Code-informational?style=flat-square)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/Malaydoshi711/readme-generator?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/Malaydoshi711/readme-generator-skill?style=flat-square)
 
 </div>
 
 ---
 
-Point this skill at a project directory — or just describe your project in plain English — and it produces a complete, polished `README.md` with badges, banners, structured sections, social links, and everything a top-tier open-source repo needs. It scans your code, configs, and docs to extract accurate details, then asks smart questions to fill the gaps. No more blank-page syndrome.
+Point this skill at a project directory or just describe your project in plain English and it produces a complete, polished `README.md` with badges, banners, structured sections, social links, and everything a top-tier open-source repo needs. It scans your code, configs, and docs to extract accurate details, then asks smart questions to fill the gaps. No more blank-page syndrome.
 
 ## Why This Exists
 
