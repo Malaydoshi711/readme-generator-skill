@@ -14,7 +14,7 @@
 
 </div>
 
----
+
 
 Point this skill at a project directory or just describe your project in plain English and it produces a complete, polished `README.md` with badges, banners, structured sections, social links, and everything a top-tier open-source repo needs. It scans your code, configs, and docs to extract accurate details, then asks smart questions to fill the gaps. No more blank-page syndrome.
 
@@ -190,7 +190,7 @@ MIT — see [LICENSE](LICENSE) for details.
 
 </div>
 
----
+
 
 <div align="center">
 
